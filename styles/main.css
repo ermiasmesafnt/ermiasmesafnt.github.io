@@ -14,8 +14,9 @@ color: rgb(145,200,255);
 a{
 	text-decoration: none;
 	color:  rgb(145,200,255);
+}
 
-#nav {
+#nav{
   border: 2px solid red;
   border-radius: 9px;
   background: white;
@@ -28,5 +29,19 @@ a{
 	border-style: dashed;
 	border-color: red;
 	margin: 20,20,20,20;
+	padding: 20px;
 
+
+}
+#my-img-float-left {
+float: left;
+margin: 30px;
+}
+.p-class {
+	margin: 15px;
+	padding:15px;
+}
+#div-float {
+	border: solid 5px red; 
+	overflow: auto;
 }
