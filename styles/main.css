@@ -45,3 +45,15 @@ margin: 30px;
 	border: solid 5px red; 
 	overflow: auto;
 }
+@media only screen and (max-width: 600px) {
+	#my-img-float-left{ 
+		float: none;
+		margin: 30px;
+		width: 300px;
+      }
+    #my-img-float-left{
+    	overflow: auto;
+    	border: solid 5px red;
+    	background: pink;
+
+    }
